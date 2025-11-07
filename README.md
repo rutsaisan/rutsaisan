@@ -22,7 +22,8 @@
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=rutsaisan&show_icons=true&theme=codeSTACKr) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutsaisan&layout=compact&theme=codeSTACKr)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rutsaisan&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutsaisan&layout=compact&theme=dracula)
 
 ---
 ✉️ **Contacto:** [Correo](mailto:rutsaisan.code@gmail.com) | [Correo Administrativo](mailto:ruth.sainz.santos-olmo@alu.ceacfp.es) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) 
