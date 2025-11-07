@@ -36,8 +36,8 @@ Actualmente, estoy inmersa en el ciclo formativo de **Desarrollo de Aplicaciones
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=Rutsaisan&show_icons=true&bg_color=00000000&title_color=AA33AA&icon_color=FF00FF&text_color=DDDDDD&border_color=AA33AA) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutsaisan&layout=compact&bg_color=00000000&title_color=AA33AA&icon_color=FF00FF&text_color=DDDDDD&border_color=AA33AA)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rutsaisan&show_icons=true&bg_color=00000000&title_color=AA33AA&icon_color=C77DFF&text_color=DDDDDD&border_color=AA33AA&card_width=400) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutsaisan&layout=compact&bg_color=00000000&title_color=AA33AA&icon_color=C77DFF&text_color=DDDDDD&border_color=AA33AA&card_width=400)
 
 ---
 ✉️ **Contacto:** [Correo](mailto:rutsaisan.code@gmail.com) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) 
