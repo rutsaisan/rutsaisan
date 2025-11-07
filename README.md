@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMAGEN GITHUB1" alt="Banner de Ruth Sainz Santos-Olmo" width="100%">
+  <img src="https://github.com/rutsaisan/rutsaisan/edit/main/README.md" alt="Banner de Ruth Sainz Santos-Olmo" width="100%">
 </p>
 
 ---
