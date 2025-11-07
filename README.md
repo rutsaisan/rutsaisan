@@ -10,7 +10,21 @@
 
 <h4 align="center"> Enfocada en conseguir alcanzar mis sueños y seguir aprendiendo y mejorando dia a dia. </h4>
 
+<h2 align="center">⚡ Sobre mí </h2>
+
+
+Soy una persona **creativa, lógica, soñadora y resolutiva**, con ganas de seguir creciendo y aprendiendo. 
+Mi pasión se divide entre el **diseño gráfico** y el mundo del código, por lo que disfruto ambas partes del proceso: desde la **concepción UI/UX** hasta la **programación funcional**.
+
+Actualmente, estoy inmersa en el ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con un enfoque en la creación de **páginas web y aplicaciones móviles**. Puedes esperar encontrar en mi perfil proyectos que fusionan mi amor por los videojuegos y el buen diseño con soluciones de código limpias y efectivas.
+
 ---
+
+### 🚀 Datos de Interés
+
+* 🎓 **Estudiante de DAM** (CEAC)
+* 🧩 **Experiencia en:** WordPress, Python, Unity, Canva y Blender
+* 🌟 **Interesada en:** Desarrollo de videojuegos, web y móvil, y Diseño Gráfico
 
 ### ⚙️ Lenguajes que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
